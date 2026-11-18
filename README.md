@@ -89,7 +89,7 @@ git init
 git add .
 git commit -m "Implementa API de consulta de livros com Flask"
 git branch -M main
-git remote add origin https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git remote add origin https://github.com/maicondiegos2014-hub/lista1_api_flask.git
 git push -u origin main
 
 Troque o endereço de exemplo pelo endereço do seu repositório.
